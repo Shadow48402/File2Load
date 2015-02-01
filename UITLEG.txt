@@ -1,0 +1,70 @@
+# Dutch...
+
+
+
+Hoi,
+
+Bedankt dat je dit gedownload hebt!
+
+
+Als je dit script wilt gebruiken hoef je alleen maar
+
+- index.php
+, uploads
+ naar je webhost te uploaden.
+
+
+- De Chmod van de map uploads naar 0777 te zetten
+
+Hoe moet je file spamming blokkeren:
+- Zet $spamProtection op 'true'
+- Voer je MySQL gegevens in
+
+
+
+Credits:
+
+
+- Verschillende site's met voorbeelden
+
+- Virtual
+
+- Niels Hamelink ( http://twitter.com/NielsHamelink )
+
+
+
+# English
+
+
+
+Hello,
+
+
+
+Thank you for downloading this script!
+
+
+
+How to use this script:
+
+- Copy the contents of the RAR file into your FTP
+
+- Change the Chmod of the uploads map to 0777
+
+
+How to disable file spamming:
+- Set $spamProtection to 'true'
+- Enter your MySQL settings into the config
+
+
+Enjoy
+
+
+
+Credits:
+
+- Different websites for examples
+
+- Virtual
+
+- Niels Hamelink ( http://twitter.com/NielsHamelink )
